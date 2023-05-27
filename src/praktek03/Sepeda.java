@@ -1,5 +1,5 @@
 package praktek03;
-public class Sepeda {
+public class Sepeda{
     String Merk;
     String Warna;
     double Harga;
